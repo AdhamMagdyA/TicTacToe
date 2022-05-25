@@ -6,7 +6,7 @@ a console game of tic-tac-toe, but instead of playing againist your friend, you 
 Clone the repository
 
 ```sh
-git clone 
+git clone https://github.com/AdhamMagdyA/TicTacToe.git
 cd TicTacToe
 ```
 
